@@ -28,4 +28,10 @@ public class HomeController {
 	public String goBlog() {
 		return "ref/blog";
 	}
+	
+	@GetMapping(value = "justTest")
+	public String goTest() {
+		return "hotel/justTest";
+	}
+	
 }
