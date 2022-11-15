@@ -1,4 +1,4 @@
-package com.oracle.travelProject.controller;
+package com.oracle.travelProject.home.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
