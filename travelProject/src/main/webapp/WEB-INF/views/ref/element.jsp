@@ -122,7 +122,7 @@
 						class="lnr lnr-arrow-right"></span></a>
 			</div>
 			<div class="button-group-area mt-40">
-				<a href="#" class="genric-btn primary e-large">Extra Large</a>
+<!-- 				<a href="#" class="genric-btn primary e-large">Extra Large</a> -->
 				<a href="#" class="genric-btn success large">Large</a>
 				<a href="#" class="genric-btn primary">Default</a>
 				<a href="#" class="genric-btn success medium">Medium</a>
