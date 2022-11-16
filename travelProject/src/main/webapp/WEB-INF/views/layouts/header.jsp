@@ -67,6 +67,7 @@
                                                     <li><a href="justTest">해외</a></li>
                                                     <li><a href="cssTest">국내</a></li>
                                                     <li><a href="blog">블로그 구조 참고</a></li>
+                                                    <li><a href='element'>Element</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">항공</a>
@@ -88,7 +89,7 @@
                                                 </ul>
                                             </li>
                                             <li><a href="#">예약내역 확인</a></li>
-                                            <li><a href='element'>Element</a></li>
+                                            <li><a href='loginForm'>LOGIN</a></li>
                                         </ul>
                                     </nav>
                                 </div>

@@ -39,4 +39,9 @@ public class HomeController {
 		return "hotel/cssTest";
 	}
 	
+	@GetMapping(value = "loginForm")
+	public String goLogin() {
+		return "member/loginForm";
+	}
+	
 }
