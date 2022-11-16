@@ -65,7 +65,7 @@
                                             <li><a href="hotelmain">숙박</a>
                                             	  <ul class="submenu">
                                                     <li><a href="justTest">해외</a></li>
-                                                    <li><a href="#">국내</a></li>
+                                                    <li><a href="cssTest">국내</a></li>
                                                     <li><a href="blog">블로그 구조 참고</a></li>
                                                 </ul>
                                             </li>

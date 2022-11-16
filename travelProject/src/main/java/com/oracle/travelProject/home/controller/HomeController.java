@@ -34,4 +34,9 @@ public class HomeController {
 		return "hotel/justTest";
 	}
 	
+	@GetMapping(value = "cssTest")
+	public String goCssTest() {
+		return "hotel/cssTest";
+	}
+	
 }
