@@ -82,10 +82,10 @@
                                                     <li><a href="#">국내</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">입장권</a>
+                                            <li><a href="ticketmain">입장권</a>
                                                 <ul class="submenu">
-                                                    <li><a href="#">해외</a></li>
-                                                    <li><a href="#">국내</a></li>
+                                                    <li><a href="ticketOverseas">해외</a></li>
+                                                    <li><a href="ticketDomestic">국내</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">예약내역 확인</a></li>
