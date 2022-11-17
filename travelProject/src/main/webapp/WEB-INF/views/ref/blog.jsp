@@ -185,7 +185,7 @@
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Resaurant food</p>
+                                        <p>Restaurant food</p>
                                         <p>(37)</p>
                                     </a>
                                 </li>
