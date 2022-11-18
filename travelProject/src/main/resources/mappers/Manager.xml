@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.oracle.oBootMybatis01.Manager">
+	<select id="MemberList" resultType="Member">
+		SELECT * FROM member
+	</select>
+	<select id="MembershipList" resultType="Membership">
+		SELECT * FROM membership
+	</select>
+	<select id="GetUserDetail" parameterType="Membership" resultType="Membership">
+		select m.*,mm.mem_mile,mm.membership_id,ms.membership_name from member m inner join mem_membership mm on m.mem_id=mm.mem_id inner join membership ms on mm.membership_id=ms.membership_id WHERE m.mem_id=#{mem_id}
+	</select>
+	<update id="UpdateUserDetail" parameterType="Membership">
+		update 
+	</update>
+</mapper>
