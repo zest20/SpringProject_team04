@@ -61,4 +61,10 @@ public class HomeController {
 		return "ticket/ticketOverseas";
 	}
 	
+	/* =============== 항공 =============== */
+	// 국내 입장권
+		@GetMapping(value = "airport")
+		public String airport() {
+			return "airport/searchTicket";
+		}
 }
